@@ -1,2 +1,3 @@
-# modern-smart-home-b6z2
+# Modern Smart Home B6Z2
+
 A repository to test GitHub automation for issue management.
